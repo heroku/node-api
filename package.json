@@ -16,7 +16,7 @@
     "morgan": "~1.7.0",
     "pg": "^6.1.0",
     "serve-favicon": "~2.3.0",
-    "superagent": "^2.2.0",
+    "superagent": "^9.0.0",
     "swagger-node-express": "^2.1.3"
   }
 }
